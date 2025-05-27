@@ -1,16 +1,31 @@
-# myapp
+# INVESTIMENTOS
 
-A new Flutter project.
+Projeto desenvolvido em Flutter Uma alternativa ao financiamento é a paciência, quando a aquisição de um bem não é de necessidade básica ou essencial. Neste caso, é possível investir o dinheiro e esperar o tempo necessário para adquirir o bem à vista.
 
-## Getting Started
+## Tecnologias Utilizadas
 
-This project is a starting point for a Flutter application.
+| Linguagens e Ferramentas  | Funcionalidade |
+| ------------- |:-------------:|
+| [Flutter]() | Linguagem Mobile    |
+| [Dart](https://dart.dev/) | Linguagem Mobile    |
+| [VsCode](https://code.visualstudio.com/) | IDE    |
+| [Firebase](https://studio.firebase.google.com/) | IDX    |
 
-A few resources to get you started if this is your first Flutter project:
+## Wireframes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Wireframe Home](![inven2](https://github.com/user-attachments/assets/752ecf69-50b6-4076-9531-cfd9e0b00127)
+))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Como testar
+- 1 Clonar o repositório
+- 2 Abrir com Android Studio ou VsCode
+- 3 Em um terminal, executar o comando:
+```bash
+flutter pub get
+```
+- 4 Executar o aplicativo em um emulador ou dispositivo físico ou em um navegador:
+```bash
+flutter run
+```
